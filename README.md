@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - I’m currently working on deep rl neural nets and MLOps.
 ```mermaid
 graph TD;
-    擅长及兴趣领域[擅长及兴趣领域]-->MachineLearning[Machine Learning];
-    MachineLearning[Machine Learning]-->StatisticalLearning[Statistical Learning];
-    MachineLearning[Machine Learning]-->DeepLearning[Deep Learning];
-    MyDomainKnowledge[My Domain Knowledge]-->SoftwareDevelopment[Software Development];
-    DeepLearning[Deep Learning]-->ComputerVision[Computer Vision];
-    DeepLearning[Deep Learning]-->NaturalLanguageProcessing[Natural Language Processing];
-    DeepLearning[Deep Learning]-->Multimodality;
+    擅长及兴趣领域[擅长及兴趣领域]-->机器学习[机器学习];
+    机器学习[机器学习]-->统计学习[统计学习];
+    机器学习[机器学习]-->深度学习[深度学习];
+    擅长及兴趣领域[擅长及兴趣领域]-->MLOps[MLOps];
+    深度学习[深度学习]-->监督学习[监督学习];
+    深度学习[深度学习]-->非监督学习[非监督学习];
+    深度学习[深度学习]-->强化学习;
 ```

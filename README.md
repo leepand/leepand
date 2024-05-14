@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 -->
 ![](assets/Bottom_up.svg)
 - I’m currently working on deep rl neural nets and MLOps.
+```mermaid
+graph TD;
+    MyDomainKnowledge[擅长及兴趣领域]-->MachineLearning[Machine Learning];
+    MachineLearning[Machine Learning]-->StatisticalLearning[Statistical Learning];
+    MachineLearning[Machine Learning]-->DeepLearning[Deep Learning];
+    MyDomainKnowledge[My Domain Knowledge]-->SoftwareDevelopment[Software Development];
+    DeepLearning[Deep Learning]-->ComputerVision[Computer Vision];
+    DeepLearning[Deep Learning]-->NaturalLanguageProcessing[Natural Language Processing];
+    DeepLearning[Deep Learning]-->Multimodality;
+```
